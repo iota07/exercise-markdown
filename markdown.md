@@ -12,8 +12,8 @@ You can create unordered lists using asterisks *, plus +, or hyphens -. For exam
 
 - Item 1 with - method
 - Item 2 with - method
-+ tem A with + method
-+ item B with + method
++ Item A with + method
++ Item B with + method
 * Item 3 with * method
 
 ## Ordered List
