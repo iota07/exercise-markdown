@@ -1,4 +1,4 @@
-[README.md](https://github.com/iota07/exercise-markdown/blob/main/README.md)
+Link to [README.md](https://github.com/iota07/exercise-markdown/blob/main/README.md)
 
 Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber created Markdown in 2004 as a markup language that is easy to read in its source code form. Markdown is widely used for blogging and instant messaging, and also used elsewhere in online forums, collaborative software, documentation pages, and readme files.
 
