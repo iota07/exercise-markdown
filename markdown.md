@@ -10,11 +10,11 @@ The initial description of Markdown contained ambiguities and raised unanswered 
 
 You can create unordered lists using asterisks *, plus +, or hyphens -. For example:
 
-- Item 1
-- Item 2
-- Subitem A
-- Subitem B
-- Item 3
+- Item 1 with - method
+- Item 2 with - method
++ tem A with + method
++ item B with + method
+* Item 3 with * method
 
 ## Ordered List
 
